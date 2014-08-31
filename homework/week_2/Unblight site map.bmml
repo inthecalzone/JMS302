@@ -1,0 +1,9 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="2156" measuredH="450" mockupW="2096" mockupH="430">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::SiteMap" x="60" y="20" w="-1" h="-1" measuredW="2096" measuredH="430" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Home%0A-%20About%20Unblight%0A--%20What%20is%20blight%3F.html%0A--%20Stories%20about%20Macon%27s%20blight.html%0A---%20Community%20Engagement%20project%20in%20The%20Telegraph.html%0A---%20Coverage%20of%20the%202014%20unblight%20conference.html%0A---%20Any%20updates%20throughout%20the%20year.html%0A--%20Look%20up%20blight%20in%20your%20neighborhood.html%0A-%20Unblight%20Unconference%0A--%20Information.html%0A--%20Register.html%0A--%202014%20Unconference.html%0A-%20Contact.html%0A-%20Mercer%20CCJ%20%28external%20link%29</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
