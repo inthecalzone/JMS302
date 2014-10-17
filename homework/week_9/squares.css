@@ -1,0 +1,119 @@
+#one {
+	border: 0px;
+	float: left;
+	position: relative;
+	left: 250px;
+	bottom: -20px;
+	border-radius: 0px;
+	background-color: #cc0000;
+	height: 150px;
+	width: 150px;
+    font-family: 'Impact', serif;
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 72px;
+}
+
+#two {
+	border: 2px dashed #ffffff;
+	padding: 20px;
+	border-radius: 5px;
+	background-color: orange;
+	height: 600px;
+	width: 150px;
+}
+
+#three {
+	border: 10px dotted #00FF00;
+	float: right;
+    border-radius: 20px;
+	background-color: #FFFF00;
+	height: 300px;
+	width: 300px;
+}
+
+#four {
+	border: 0px;
+	float: left;
+	position: absolute;
+	left: 750px;
+	top: 35px;
+	border-radius: 5px;
+	background-color: #00ff00;
+	height: 30px;
+	width: 150px;
+    font-family: sans-serif;
+    color: blue;
+    text-align: center;
+    z-index: 1;
+}
+
+#five {
+	border: 15px dotted orange;
+	float: left;
+	position: absolute;
+	left: 15px;
+	top: 20px;
+	border-radius: 100px;
+	background-color: #00FFFF;
+	height: 150px;
+	width: 150px;
+}
+
+#six {
+	border: 15px dashed orange;
+	float: left;
+	position: absolute;
+	left: 15px;
+	top: 220px;
+	border-radius: 100px;
+	background-color: magenta;
+	height: 150px;
+	width: 150px;
+}
+
+#seven {
+	border: 15px dotted turquoise;
+	float: left;
+	position: absolute;
+	left: 15px;
+	top: 420px;
+	border-radius: 100px;
+	background-color: orange;
+	height: 150px;
+	width: 150px;
+}
+#eight {
+	border: 30px solid #000000;
+	float: left;
+	position: absolute;
+	top: 400px;
+	right: 200px;
+	background-color: #FFFFFF;
+	height: 40px;
+	width: 500px;
+    font-family: 'Comic Sans';
+    text-align: center;
+    color: #00ff00;
+}
+
+#nine {
+	border: 3px dotted #FFFFFF;
+	float: left;
+	position: absolute;
+	left: 229px;
+	top: 200px;
+	background-color: teal;
+	height: 40px;
+	width: 150px;
+}
+
+#ten {
+	border: 0px;
+    position: absolute;
+	left: 450px;
+	top: 30px;
+    background-image: url(http://media2.giphy.com/media/Z9Jo7kf97VC0w/giphy.gif);
+	height: 281px;
+	width: 500px;
+}

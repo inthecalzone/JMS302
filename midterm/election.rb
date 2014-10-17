@@ -7,6 +7,7 @@ def get_results(candidate_name)
 end
 
 get_results "Michelle Nunn"
+get_results "David Perdue"
 
 puts "What are his/her results? Type 'done' when you're done."
     while true
